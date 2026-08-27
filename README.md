@@ -1,6 +1,6 @@
 # Yikun Bai
 
-I am an AI/ML researcher interested in building principled and practical learning systems. My work centers on machine learning theory and methods with an emphasis on generative modeling, reinforcement learning, and geometry-aware approaches.
+I am an AI researcher focused on developing principled machine learning methods with strong empirical utility. My interests span generative modeling, reinforcement learning, and geometry-aware learning, with an emphasis on rigorous formulation and practical impact.
 
 ## Research Interests
 
@@ -12,14 +12,14 @@ I am an AI/ML researcher interested in building principled and practical learnin
 
 ## Current Focus
 
-- Developing robust and efficient learning algorithms grounded in geometric structure
-- Exploring optimal transport perspectives for representation learning and generative modeling
-- Studying reinforcement learning methods for stable and sample-efficient decision making
+- Geometry-aware representations and inductive biases for modern ML systems
+- Optimal transport perspectives for generative modeling and representation learning
+- Stable and sample-efficient reinforcement learning algorithms
 
-## Contact Links
+## Contact
 
 - Email: [bai195@purdue.edu](mailto:bai195@purdue.edu)
 - Website: [yikun-baio.github.io](https://yikun-baio.github.io)
-- GitHub: [yikun-baio](https://github.com/yikun-baio)
+- Google Scholar: [scholar profile](https://scholar.google.com/citations?user=zLm6JOAAAAAJ)
 - LinkedIn: [baio002](https://www.linkedin.com/in/baio002)
-- Google Scholar: [Profile](https://scholar.google.com/citations?user=zLm6JOAAAAAJ)
+- GitHub: [yikun-baio](https://github.com/yikun-baio)
